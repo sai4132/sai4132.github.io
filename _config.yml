@@ -4,5 +4,5 @@ description: >- # this means to wrap text
   This is my professional portfolio.
 baseurl: "" # leave blank for user site
 url: "https://sai4132.github.io" # replace YOUR_USERNAME
-theme: cayman    # GitHub Pages default compatible theme
+theme: jekyll-theme-cayman    # GitHub Pages default compatible theme
 plugins: []
