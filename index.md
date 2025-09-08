@@ -14,4 +14,4 @@ Hi 👋 I’m **Satwik Chivukula**.
 - Data team member working on Snowflake SQL & PowerBI dashboards.  
 - Contributor to Gen-AI prompt engineering.  
 
-![My photo](/assests/images/Chivukula Sairam Satwik.jpg)
+![My photo](/assests/images/profile.jpg)
