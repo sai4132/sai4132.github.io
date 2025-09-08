@@ -1,6 +1,17 @@
 ---
-layout: home
-title: Welcome
+layout: default
+title: "Home"
 ---
 
-Welcome to my blog! This is the homepage. Below are your recent posts.
+# Welcome!
+
+Hi 👋 I’m **Satwik Chivukula**.
+
+**Academic Summary**  
+- Analyst training in Excel, SQL, Python, pharma data.  
+
+**Professional Summary**  
+- Data team member working on Snowflake SQL & PowerBI dashboards.  
+- Contributor to Gen-AI prompt engineering.  
+
+![My photo](/assets/images/profile.jpg)
